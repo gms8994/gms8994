@@ -1,6 +1,6 @@
 # Glen - @gms8994
 
-I'm Glen - a Software Engineer at [Appriss Health](https://apprisshealth.com) working on [OpenBeds](https://www.openbeds.net).
+I'm Glen - a Software Engineer at [Bamboo Health](https://www.bamboohealth.com) working on [OpenBeds](https://www.openbeds.net).
 
 I prefer to build performant, testable systems - not just testable but actually tested. I'm a proponent of using the right tool for the right job and being explicit with code and data types. I seem to be really good at finding edge cases, and love bringing stagnated systems to the forefront.
 
